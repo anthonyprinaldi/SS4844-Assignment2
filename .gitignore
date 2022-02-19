@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Word and PDF files
-.docx
-.pdf
+*.docx
+*.pdf
